@@ -12,6 +12,9 @@
 - Caring team member always looking out for the team
 - Professional Python programmer
 
+**valajusus(enemy of the state)** 🦹‍♂️
+- He is a very active Team member for the discord server, and also responsible for you support/license tickets
+
 ### 🛠️ Development Team
 
 **Everspace** 🌌
