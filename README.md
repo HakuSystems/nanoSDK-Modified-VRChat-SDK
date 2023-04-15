@@ -8,10 +8,6 @@
 - Exceptional writer, ensuring all English text is up to par
 - Reliable support member for users needing assistance with licenses
 
-**ZKWolf** 🐺
-- Caring team member always looking out for the team
-- Professional Python programmer
-
 **valajusus(enemy of the state)** 🦹‍♂️
 - He is a very active Team member for the discord server, and also responsible for you support/license tickets
 
@@ -31,6 +27,10 @@
 - Creator and leader of nanoSDK, handling all aspects of the project
 - Involved in coding, video production, and various other tasks
 - Grateful for an incredible team
+
+**ZKWolf** 🐺
+- Caring team member always looking out for the team and helps lyze in unity
+- Professional Python programmer
 
 ## 📖 General Info
 
