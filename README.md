@@ -18,11 +18,6 @@
 - Focused on coding the API for nanoSDK
 - Primarily works on API and server-related tasks
 
-**Texotek** 🤖
-- Skilled Unity developer working on the nanoSDK application
-- Young, intelligent, and a huge fan of Linux
-- Fixes numerous bugs and has a keen logical mindset
-
 **lyze** 👑
 - Creator and leader of nanoSDK, handling all aspects of the project
 - Involved in coding, video production, and various other tasks
