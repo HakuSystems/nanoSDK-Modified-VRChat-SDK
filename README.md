@@ -1,3 +1,5 @@
+## DEPRECATED AND NOT IN USE ANYMORE, WILL NOT BE UPDATED
+
 # 🌟🚀 nanoSDK - The Ultimate Modified VRChat SDK 🚀🌟
 
 ## 🎉 Meet Our Awesome Team! 🎉
